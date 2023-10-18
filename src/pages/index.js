@@ -135,7 +135,7 @@ export default function Home() {
             onSendMessage={onSendMessage}
             onChangeTypingState={onChangeTypingState}
           />
-          <a className={styles.upsell} href='https://www.scaledrone.com/blog/tutorial-build-a-reactjs-chat-app/'>Real-time React chat using Scaledrone. See full tutorial →</a>
+         // <a className={styles.upsell} href='https://www.scaledrone.com/blog/tutorial-build-a-reactjs-chat-app/'>Real-time React chat using Scaledrone. See full tutorial →</a>
         </div>
       </main>
     </>
